@@ -1,0 +1,20 @@
+footer {
+    background-color: green;
+}
+a {
+   color: lawngreen;
+
+}
+
+header {
+    color: darkorchid;
+}
+
+ #idNome{
+    color: dodgerblue;
+ }
+
+ .colorido{
+    color: crimson;
+    font-size: 30px;
+ }
